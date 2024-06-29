@@ -3,6 +3,19 @@ Messenger
 Quick Start Guide
 
 Version 459.0.0
+
+- [Making a Call](#making-a-call)
+- [Overview](#overview)
+- [Create a Call on Messenger](#create-a-call-on-messenger)
+	- [Create a Voice Call](#create-a-voice-call)
+	- [Create a Video Call](#create-a-video-call)
+		- [Video Call Directly](#video-call-directly)
+		- [Convert a Voice Call to a Video Call](#convert-a-voice-call-to-a-video-call)
+	- [Create a Group Call](#create-a-group-call)
+		- [Create a call through a Group Chat](#create-a-call-through-a-group-chat)
+		- [Add more people to a Personal Call](#add-more-people-to-a-personal-call)
+- [Troubleshooting](#troubleshooting)
+
 # Overview
 Messenger allows you to make audio and video calls through its easily navigable user interface. 
 
